@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Poole</title>
- <link href="http://getpoole.com/atom.xml" rel="self"/>
- <link href="http://getpoole.com/"/>
- <updated>2018-04-18T21:59:25+02:00</updated>
- <id>http://getpoole.com</id>
+ <title>my little blog</title>
+ <link href="http://tribbensee.net/atom.xml" rel="self"/>
+ <link href="http://tribbensee.net/"/>
+ <updated>2018-04-22T14:14:32+02:00</updated>
+ <id>http://tribbensee.net</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -13,10 +13,20 @@
 
  
  <entry>
+   <title>first post!</title>
+   <link href="http://tribbensee.net/2018/04/22/first-post/"/>
+   <updated>2018-04-22T00:00:00+02:00</updated>
+   <id>http://tribbensee.net/2018/04/22/first-post</id>
+   <content type="html">&lt;h1 id=&quot;this-is-a-first-test-post&quot;&gt;This is a first test post.&lt;/h1&gt;
+&lt;p&gt;Please do not take this seriously, just testing out jekyll and markdown!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Example content</title>
-   <link href="http://getpoole.com/2016/01/02/example-content/"/>
+   <link href="http://tribbensee.net/2016/01/02/example-content/"/>
    <updated>2016-01-02T00:00:00+01:00</updated>
-   <id>http://getpoole.com/2016/01/02/example-content</id>
+   <id>http://tribbensee.net/2016/01/02/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
